@@ -31,6 +31,7 @@ const App = () => {
 
         setData(responce.data)
 
+        
         console.log(data);
     }
 
