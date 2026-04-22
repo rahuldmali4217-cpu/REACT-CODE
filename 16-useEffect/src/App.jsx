@@ -137,7 +137,6 @@ const App = () => {
                 setB(b - 1)
             }}>Change B</button>
 
-
         </div >
     )
 }
